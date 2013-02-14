@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>fancyplaceholder sample</title>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+  <script src='jquery.fancyplaceholder.js'></script>
+  <script>
+    $(document).ready(function(){
+      $(':input[placeholder]').fancyplaceholder();
+      $('#input2').fancyplaceholder({keepLabels:true});
+    });
+  </script>
+</head>
+<body>
+  <h1>Sample field</h1>
+  <div>
+    This field will only show the fancyplaceholder when the field has focus:<br>
+    <input type='text' placeholder='Sample'>
+  </div><br>
+  <div>
+    This field will retain the fancyplaceholder after focus is lost if there is text in the field:<br>
+    <input id='input2' type='text' placeholder='Sample 2'>
+  </div>
+</body>
+</html>

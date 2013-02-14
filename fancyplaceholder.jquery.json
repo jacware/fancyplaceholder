@@ -1,0 +1,33 @@
+{
+    "name": "fancyplaceholder",
+    "title": "fancyplaceholder",
+    "description": "fancyplaceholder allows text box placeholders to be retained after there is text in the field.",
+    "keywords": [
+        "forms",
+        "placeholder"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Aaron Cosentino"
+    },
+    "maintainers": [
+        {
+            "name": "Corey Frang",
+            "email": "gnarf37@gmail.com",
+            "url": "http://gnarf.net"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "bugs": "https://github.com/jacware/fancyplaceholder/issues",
+    "homepage": "https://github.com/jacware/fancyplaceholder",
+    "docs": "https://github.com/jacware/fancyplaceholder",
+    "download": "https://github.com/jacware/fancyplaceholder",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
