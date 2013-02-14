@@ -1,5 +1,5 @@
 /*
- *  fancyplaceholder 1.0.0 - jQuery plugin
+ *  fancyplaceholder 1.0.1 - jQuery plugin
  *
  *  Copyright (c) 2013 Aaron Cosentino
  *

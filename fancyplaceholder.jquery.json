@@ -3,20 +3,13 @@
     "title": "fancyplaceholder",
     "description": "fancyplaceholder allows text box placeholders to be retained after there is text in the field.",
     "keywords": [
-        "forms",
+        "form",
         "placeholder"
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": {
         "name": "Aaron Cosentino"
     },
-    "maintainers": [
-        {
-            "name": "Corey Frang",
-            "email": "gnarf37@gmail.com",
-            "url": "http://gnarf.net"
-        }
-    ],
     "licenses": [
         {
             "type": "MIT",
