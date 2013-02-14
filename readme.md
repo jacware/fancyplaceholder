@@ -2,7 +2,7 @@
 
 fancyplaceholder allows text box placeholders to be retained after there is text in the field. This is done by dropping the placeholder into a label below the field.
 
-See a demo here: <a href='demo.html'>demo</a>.
+See a <a href='http://jacware.github.com/fancyplaceholder/demo.html'>live demo</a>.
 
 ## Usage
 
